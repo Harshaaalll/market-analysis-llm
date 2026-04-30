@@ -1,8 +1,3 @@
-# ============================================================
-# README: Market Analysis Using LLMs
-# File: README-market-analysis-llm.md
-# ============================================================
-
 # Market Analysis Using Large Language Models
 
 > Automated financial news sentiment analysis pipeline. Scrapes 500+ articles, summarises with two-pass BART, classifies sentiment with RoBERTa, and serves real-time scores via Flask API with Streamlit dashboard.
